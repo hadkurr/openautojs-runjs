@@ -561,5 +561,7 @@
     <string name="runjs_browser_mode_internal">Trình duyệt trong app</string>
     <string name="runjs_browser_mode_external">Trình duyệt ngoài</string>
     <string name="runjs_browser_toggle_title">Bật tùy chọn trình duyệt khi chạy script</string>
+    <string name="key_runjs_browser_mode" translatable="false">key_runjs_browser_mode</string>
+    <string name="key_runjs_browser_toggle" translatable="false">key_runjs_browser_toggle</string>
 
 </resources>

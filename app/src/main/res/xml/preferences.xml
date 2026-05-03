@@ -45,6 +45,20 @@
             android:layout="@layout/preference_custom"
             android:summary="@string/summary_guard_mode"
             android:title="@string/text_guard_mode"/>
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="@string/key_runjs_browser_toggle"
+            android:layout="@layout/preference_custom"
+            android:title="@string/runjs_browser_toggle_title"/>
+
+        <ListPreference
+            android:defaultValue="internal"
+            android:entries="@array/runjs_browser_mode_entries"
+            android:entryValues="@array/runjs_browser_mode_values"
+            android:key="@string/key_runjs_browser_mode"
+            android:layout="@layout/preference_custom"
+            android:title="@string/runjs_browser_mode_title"/>
     </PreferenceCategory>
 
     <PreferenceCategory

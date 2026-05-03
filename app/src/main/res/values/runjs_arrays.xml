@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="runjs_browser_mode_entries">
+        <item>@string/runjs_browser_mode_internal</item>
+        <item>@string/runjs_browser_mode_external</item>
+    </string-array>
+    <string-array name="runjs_browser_mode_values">
+        <item>internal</item>
+        <item>external</item>
+    </string-array>
+</resources>
