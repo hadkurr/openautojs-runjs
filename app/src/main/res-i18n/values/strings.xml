@@ -556,4 +556,10 @@
 
     <string name="text_show" translatable="false">显示</string>
     <string name="text_hide" translatable="false">隐藏</string>
+
+    <string name="runjs_browser_mode_title">Chế độ trình duyệt chạy script</string>
+    <string name="runjs_browser_mode_internal">Trình duyệt trong app</string>
+    <string name="runjs_browser_mode_external">Trình duyệt ngoài</string>
+    <string name="runjs_browser_toggle_title">Bật tùy chọn trình duyệt khi chạy script</string>
+
 </resources>

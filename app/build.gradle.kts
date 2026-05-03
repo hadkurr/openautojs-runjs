@@ -31,7 +31,7 @@ android {
     compileSdk = versions.compile
 
     defaultConfig {
-        applicationId = "org.openautojs.autojs"
+        applicationId = "com.tienhua.runjs"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
